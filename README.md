@@ -30,7 +30,7 @@
 No training data is provided; participants must scrape and parse data from news websites.
 
  This is the [link](https://drive.google.com/file/d/10uvMXy-rH66H8Li9pthTCuYtUyVy0pcy/view?usp=sharing) to the train data I scraped.
- The data is scraped from lenta.ru, fontanka.ru, doctorpiter.ru. 
+ The data is scraped from lenta.ru, fontanka.ru, doctorpiter.ru. 160 984 news with classes imbalance. 
 
 ## Evaluation
 
